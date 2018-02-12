@@ -17,9 +17,9 @@ def presentation(number: int) -> str:
 
 
 if __name__ == "__main__":
-    number1 = int(input())
-    number2 = int(input())
+    NUMBER1 = int(input())
+    NUMBER2 = int(input())
 
-    result = sum_two_numbers(number1, number2)
+    RESULT = sum_two_numbers(NUMBER1, NUMBER2)
 
-    print(presentation(result), end='\n')
+    print(presentation(RESULT), end='\n')
