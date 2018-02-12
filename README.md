@@ -1,2 +1,2 @@
 # URI
-Minhas soluções do URI em diferentes linguagens
+Minhas soluções do URI em diferentes linguagens.
