@@ -23,6 +23,7 @@
 # Extremamente Básico<a id="sec-1" name="sec-1"></a>
 
 Adaptado por Neilor Tonin, URI Brasil
+
 Timelimit: 1
 
 ## Problema<a id="sec-1-1" name="sec-1-1"></a>
@@ -60,12 +61,6 @@ espaço antes e um espaço depois do sinal de igualdade.
 <tr>
 <td class="right">Entrada:</td>
 <td class="left">Saída:</td>
-</tr>
-
-
-<tr>
-<td class="right">&#xa0;</td>
-<td class="left">&#xa0;</td>
 </tr>
 
 
@@ -126,12 +121,6 @@ espaço antes e um espaço depois do sinal de igualdade.
 <tr>
 <td class="right">Entrada:</td>
 <td class="left">Saída</td>
-</tr>
-
-
-<tr>
-<td class="right">&#xa0;</td>
-<td class="left">&#xa0;</td>
 </tr>
 
 
